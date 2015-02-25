@@ -2,7 +2,7 @@
 
 require "#{ENV['QAAUTOMATION_SCRIPTS']}/GameStopRespMobile/dsl/src/dsl"
 require "bigdecimal"
-
+#---------------------------------------
 $tracer.mode=:on
 $tracer.echo=:on
 $global_functions = GlobalFunctions.new()
