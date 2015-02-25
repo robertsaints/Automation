@@ -1,5 +1,5 @@
 # d-Con %QAAUTOMATION_SCRIPTS%\GameStopRespMobile\spec\UI\mgs_responsive_browse_spec.rb  --csv %QAAUTOMATION_SCRIPTS%\GameStopRespMobile\spec\UI\mgs_responsive_dataset.csv --range MGS_01 --browser chrome --or
-
+# robert santos
 require "#{ENV['QAAUTOMATION_SCRIPTS']}/GameStopRespMobile/dsl/src/dsl"
 require "bigdecimal"
 
